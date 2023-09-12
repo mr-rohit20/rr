@@ -1,0 +1,4 @@
+@echo off
+start=https://practice.geeksforgeeks.org/batch/cip-1?tab=Chapters
+start=https://github.com/
+https://leetcode.com/mr_rohit20/
